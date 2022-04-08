@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: false
+header:
+  image: /images/singapore_home.jpg
 ---
 
 {: .text-justify}
