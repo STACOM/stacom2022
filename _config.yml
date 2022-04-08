@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: "STACOM/minimal-mistakes"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
