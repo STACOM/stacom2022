@@ -16,4 +16,14 @@ To maintain the website, please follow these steps:
 
 ## Tips for development
 
-* 
+* To run local Jekyll with live update
+
+```
+$ jekyll serve -l
+```
+
+* For macos, you may need to prepend with
+
+```
+$ bundle exec jekyll server -l
+```
