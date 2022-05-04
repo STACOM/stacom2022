@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Program"
-    url: /program/
+  - title: "Home"
+    url: /
+#  - title: "Program"
+#    url: /program/
   - title: "Submission"
     url: /submission/
-  - title: "Challenges"
-    url: /challenges/
+#  - title: "Challenges"
+#    url: /challenges/
   - title: "Organisers"
     url: /contact/

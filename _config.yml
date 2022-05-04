@@ -1,11 +1,11 @@
-remote_theme: "STACOM/minimal-mistakes"
+remote_theme: "STACOM/minimal-mistakes-4.24.0"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "STACOM 2022"
 title_separator          : "|"
-subtitle                 : "September 2022, Singapore"
+subtitle                 : "18 September 2022, Singapore"
 name                     : "STACOM"
 description              : "The 13th Statistical Atlases and Computational Modelling of the Heart Workshop"
 url                      : "https://stacom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -155,6 +155,8 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+
   # _posts
   - scope:
       path: ""
