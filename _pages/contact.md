@@ -11,3 +11,8 @@ header:
 3. Oscar Camara, Universitat Pompeu Fabra, Spain
 4. Esther Puyol Antón, King's College London, United Kingdom
 5. Avan Suinesiaputra, King's College London, United Kingdom
+
+# Challenge Organisers
+
+1. Xiahai Zhuang, Fudan University, China
+2. Shuo Wang, Fudan University, China

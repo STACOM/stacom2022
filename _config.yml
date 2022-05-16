@@ -156,6 +156,12 @@ compress_html:
 # Defaults
 defaults:
   # _pages
+  - values:
+      sidebar:
+      - title: Key dates
+        text: 01/07/2022, Abstract submission<br>15/07/2022, Paper submission<br>05/08/2022, Notification<br>05/09/2022, Workshop version submission<br>18/09/2022, Workshop
+      - title: Useful links
+        nav: sidelinks
 
   # _posts
   - scope:

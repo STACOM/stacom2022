@@ -10,3 +10,16 @@ main:
 #    url: /challenges/
   - title: "Organisers"
     url: /contact/
+
+# sidebar links
+sidelinks:
+  - title: "Submission page"
+    url: https://equinocs.springernature.com/service/STACOM2022
+  - title: "CMRxMotion"
+    url: http://cmr.miccai.cloud/
+  - title: "LAScarQS 2022"
+    url: https://zmiclab.github.io/projects/lascarqs22/
+  - title: "MICCAI 2002"
+    url: https://conferences.miccai.org/2022/en/
+  - title: "Previous STACOMs"
+    url: https://stacom.github.io/
