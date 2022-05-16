@@ -2,6 +2,7 @@
 layout: single
 title: Submission
 permalink: /submission/
+author: stacom
 classes:
   - wide
 header:
@@ -31,11 +32,11 @@ The STACOM 2021 workshop will accept 8-page papers (LNCS-Springer format) as reg
 2. Use the [LNCS templates/guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 3. Workshop version of accepted papers should include authors’ names & affiliations and can be up to 12 pages
 
-Note that there might be different rules prior paper submission for the challenges. Please refer to specific guidelines from the challenge website. Selected papers will be published in a Lecture Notes in Computer Science proceeding published by Springer (see [previous STACOM proceedings](http://stacom.cardiacatlas.org/)).
+Selected papers will be published in a Lecture Notes in Computer Science proceeding published by Springer (see [previous STACOM proceedings](http://stacom.cardiacatlas.org/)).
 
 ## Challenge papers
 
-The two challenges (CMRxMotion and LAScarQS) have their specific rules regarding challenge submission dates, but the challenge papers are submitted using the same system with the regular papers. **You do not need to submit an abstract for challenge paper, but you must submit a paper placeholder before 15 July 2022.**
+There are specific rules regarding challenge submission dates, but the challenge papers are submitted using the same system with the regular papers. **You do not need to submit an abstract for challenge paper, but you must submit a paper placeholder before 15 July 2022.**
 
 ## Key dates
 
@@ -43,3 +44,5 @@ The two challenges (CMRxMotion and LAScarQS) have their specific rules regarding
 | 15 July 2022 | Paper submission |
 | 5 August 2022 | Notification of acceptance |
 | 5 September 2022 | Workshop version (pdf) submission, and online version (video) |
+
+<a href="https://equinocs.springernature.com/service/STACOM2022" target="_blank" class="btn btn--info btn--large">Submit Now</a>
