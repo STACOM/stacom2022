@@ -2,8 +2,10 @@
 layout: single
 title: Organisers
 permalink: /contact/
+classes:
+  - wide
 header:
-  image: /images/singapore_super_tree.jpg
+  image: /images/singapore_houses.jpg
 ---
 
 1. Alistair Young, King's College London, United Kingdom
@@ -14,5 +16,5 @@ header:
 
 # Challenge Organisers
 
-1. Xiahai Zhuang, Fudan University, China
-2. Shuo Wang, Fudan University, China
+1. Xiahai Zhuang, Fudan University, China - (LAScarQS 2022 Challenge)
+2. Shuo Wang, Fudan University, China - (CMRxMotion Challenge)

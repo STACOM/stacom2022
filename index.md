@@ -1,15 +1,10 @@
 ---
-layout: home
+layout: single
 author_profile: false
 classes:
   - wide
 header:
   image: /images/singapore_home.jpg
-sidebar:
-  - title: Key dates
-    text: 01/07/2022, Abstract submission<br>15/07/2022, Paper submission<br>05/08/2022, Notification<br>05/09/2022, Workshop version submission<br>18/09/2022, Workshop
-  - title: Useful links
-    nav: sidelinks
 ---
 
 {: .text-justify}
