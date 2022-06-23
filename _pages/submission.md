@@ -28,7 +28,7 @@ We accept regular papers describing new methods in the following (not limited) t
 
 The STACOM 2021 workshop will accept 8-page papers (LNCS-Springer format) as regular submissions or challenges. General rules for the submission:
 
-1. Initial submission must be anonymised and limited to 8 LNCS pages including the References.
+1. Initial submission must be anonymised and limited to 8 pages (text, tables, and figures) + up to 2 pages for references only.
 2. Use the [LNCS templates/guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 3. Workshop and proceeding versions of accepted papers should include authors’ names & affiliations and can be up to 12 pages
 
