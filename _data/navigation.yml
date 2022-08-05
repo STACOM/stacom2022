@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-#  - title: "Program"
-#    url: /program/
+  - title: "Papers"
+    url: /papers/
   - title: "Submission"
     url: /submission/
 #  - title: "Challenges"
