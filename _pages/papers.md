@@ -109,4 +109,4 @@ header:
   <br>Zhuoyu Li, Camille Petri, James Howard, Graham Cole, Marta Varela
 
 1. **Deep Computational Model for the Inference of Ventricular Activation Properties**
-  <br>Lei Li, Julia Camps, Marcel Beetz, Blanca Rodriguez, Vicente Grau, Abhirup Banerjee
+  <br>Lei Li, Julia Camps, Abhirup Banerjee, Marcel Beetz, Blanca Rodriguez, Vicente Grau
