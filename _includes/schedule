@@ -1,11 +1,11 @@
 |8:00-8:05| Welcome |
 |8:05-9:35| [Regular papers I](papers/) |
 
-| | 8:05-8:20 | Interpretable Prediction of Post-Infarct Ventricular Arrhythmia using Graph Convolutional Network
-| | 8:20-8:35 | Sensitivity analysis of left atrial wall modeling approaches and inlet/outlet boundary conditions in fluid simulations to predict thrombus formation
-| | 8:35-8:50 | Deep Computational Model for the Inference of Ventricular Activation Properties
-| | 8:50-9:05 | Learning correspondences of cardiac motion using biomechanics-informed modeling
-| | 9:05-9:20 | Spatiotemporal Cardiac Statistical Shape Modeling: A Data-Driven Approach
+| | 8:05-8:20 | Interpretable Prediction of Post-Infarct Ventricular Arrhythmia using Graph Convolutional Network<br>*Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Pierre Jais, Damien Garreau, Hubert Cochet, Maxime Sermesant*
+| | 8:20-8:35 | Sensitivity analysis of left atrial wall modeling approaches and inlet/outlet boundary conditions in fluid simulations to predict thrombus formation<br>*Carlos Albors Lucas, Jordi Mill, Henrik Kjeldsberg, David Vilades, Andy Luis Olivares, Kristian Valen-Sendstad, Oscar Camara*
+| | 8:35-8:50 | Deep Computational Model for the Inference of Ventricular Activation Properties<br>*Lei Li, Julia Camps, Abhirup Banerjee, Marcel Beetz, Blanca Rodriguez, Vicente Grau*
+| | 8:50-9:05 | Learning correspondences of cardiac motion using biomechanics-informed modeling<br>*Xiaoran Zhang, Chenyu You, Shawn Ahn, Juntang Zhuang, Lawrence Staib, James Duncan*
+| | 9:05-9:20 | Spatiotemporal Cardiac Statistical Shape Modeling: A Data-Driven Approach<br>*Jadie Adams, Shireen Elhabian, Alan Morris, Nawazish Khan*
 
 Keynote speaker: **Liang Zhong**
 
@@ -21,10 +21,10 @@ INITIATE project - integrated computational modeling of right heart mechanics an
 
 |15:45-17:00 | [Regular papers II](papers/) |
 
-| | 15:45-16:00 | Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers
-| | 16:00-16:15 | 3D Mitral Valve Surface Reconstruction from 3D TEE via Graph Neural Networks
-| | 16:15-16:30 | Efficient MRI Reconstruction with Reinforcement Learning for Automatic Acquisition Stopping
-| | 16:30-16:45 | Physics-based deep learning framework to learn and forecast cardiac electrophysiology dynamics
-| | 16:45-17:00 | Post-Infarction Risk Prediction with Mesh Classification Networks
+| | 15:45-16:00 | Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers<br>*Zihao Wang, Yingyu Yang, Maxime Sermesant, Hervé Delingette*
+| | 16:00-16:15 | 3D Mitral Valve Surface Reconstruction from 3D TEE via Graph Neural Networks<br>*Matthias Ivantsits, Boris Pfahringer, Markus Huellebrand, Lars Walczak, Lennart Tautz, Olena Nemchyna, Serdar Akansel, Jörg Kempfert, Simon Sündermann, Anja Hennemuth*
+| | 16:15-16:30 | Efficient MRI Reconstruction with Reinforcement Learning for Automatic Acquisition Stopping<br>*Ruru Xu, Ilkay Oksuz*
+| | 16:30-16:45 | Physics-based deep learning framework to learn and forecast cardiac electrophysiology dynamics<br>*Victoriya Kashtanova, Mihaela Pop, Ibrahim Ayed, Patrick Gallinari, Maxime Sermesant*
+| | 16:45-17:00 | Post-Infarction Risk Prediction with Mesh Classification Networks<br>*Marcel Beetz, Jorge Corral Acero, Abhirup Banerjee, Ingo Eitel, Ernesto Zacur, Torben Lange, Thomas Stiermaier, Ruben Evertz, Sören Backhaus, Holger Thiele, Alfonso Bueno-Orovio, Pablo Lamata, Andreas Schuster, Vicente Grau*
 
 |17:00-17:10| Prizes and closing |
