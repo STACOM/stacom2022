@@ -40,7 +40,7 @@ header:
   <br>Sina Amirrajab, Yasmina Al Khalil, Josien Pluim, Marcel Breeuwer, Cian M. Scannell
 
 11. **Combination Special Data Augmentation and Sampling Inspection Network for Cardiac Magnetic Resonance Imaging Quality Classification**
-  <br>Xiaowu Sun1, Li-Hsin Cheng, Rob J. van der Geest
+  <br>Xiaowu Sun, Li-Hsin Cheng, Rob J. van der Geest
 
 12. **Automatic Cardiac Magnetic Resonance Respiratory Motions Assessment and Segmentation**
   <br>Abdul Qayyum, Moona Mazher, Imran Razzak, Steven Niederer, Fabrice Meriaudeau
