@@ -11,3 +11,4 @@ header:
 
 * 34 [regular papers](/stacom2022/papers/regulars)
 * 16 [LAScarQS challenge papers](/stacom2022/papers/lascarqs)
+* 14 [CMRxMotion challenge papers](/stacom2022/papers/cmrxmotion)
