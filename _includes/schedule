@@ -1,5 +1,5 @@
 |8:00-8:15| Welcome |
-|8:15-9:30| [Regular papers I](papers/) |
+|8:15-9:30| [Regular papers I]({{ "/papers/regulars" | relative_url }}) |
 
 | | 8:15-8:30 | Interpretable Prediction of Post-Infarct Ventricular Arrhythmia using Graph Convolutional Network<br>*Buntheng LY, Sonny Finsterbach, Marta Nuñez-Garcia, Pierre Jais, Damien Garreau, Hubert Cochet, Maxime Sermesant*
 | | 8:30-8:45 | Sensitivity analysis of left atrial wall modeling approaches and inlet/outlet boundary conditions in fluid simulations to predict thrombus formation<br>*Carlos Albors Lucas, Jordi Mill, Henrik Kjeldsberg, David Vilades, Andy Luis Olivares, Kristian Valen-Sendstad, Oscar Camara*
@@ -13,14 +13,14 @@ Keynote speaker: **Liang Zhong**
 
 INITIATE project - integrated computational modeling of right heart mechanics and blood flow dynamics in congenital heart disease
 
-|9:40-10:40| ![image-left](images/zhong.png){: style="float: left; border-radius: 50%; margin-right: 10px;"} Liang Zhong is an Associate Professor at National Heart Centre Singapore and Duke National University of Singapore. He is heading Cardiovascular Engineering and Technologies Theme and co leading Cardiovascular System AI Lab. His research focuses on cardiovascular imaging, computational modeling, cardiovascular mechanics and physiology, and application of artificial intelligence in medicine. He has developed methods for quantification of heart shape, myocardial velocity and strain, and function using MRI feature tracking and 4D flow MRI. He is Principal Investigator for 1) INITIATE project to identify the most useful imaging and circulating biomarkers and exercise testing to guide management of paediatric and adult congenital heart disease [ClinicalTrials: NCT03217240]; 2) APOLLO programme. A 5000 cohort of Singaporean will be established for the study of coronary calcium score, epicardial adipose tissue, stenosis, and plaque using AI algorithm and cardiovascular outcome. His work has been supported by National Research Foundation, National Medical Research Council, Biomedical Research Council, A*STAR, and SingHealth Foundation. He has published over 180 peer-reviewed papers and filed 10 patents. |
+|9:40-10:40| ![image-left]({{ "/images/zhong.png" | relative_url }}){: style="float: left; border-radius: 50%; margin-right: 10px;"} Liang Zhong is an Associate Professor at National Heart Centre Singapore and Duke National University of Singapore. He is heading Cardiovascular Engineering and Technologies Theme and co leading Cardiovascular System AI Lab. His research focuses on cardiovascular imaging, computational modeling, cardiovascular mechanics and physiology, and application of artificial intelligence in medicine. He has developed methods for quantification of heart shape, myocardial velocity and strain, and function using MRI feature tracking and 4D flow MRI. He is Principal Investigator for 1) INITIATE project to identify the most useful imaging and circulating biomarkers and exercise testing to guide management of paediatric and adult congenital heart disease [ClinicalTrials: NCT03217240]; 2) APOLLO programme. A 5000 cohort of Singaporean will be established for the study of coronary calcium score, epicardial adipose tissue, stenosis, and plaque using AI algorithm and cardiovascular outcome. His work has been supported by National Research Foundation, National Medical Research Council, Biomedical Research Council, A*STAR, and SingHealth Foundation. He has published over 180 peer-reviewed papers and filed 10 patents. |
 
 |10:40-12:10| <a href="https://zmiclab.github.io/projects/lascarqs22/" target="_blank">LAScarQS Challenge</a> <br> Left Atrial and Scar Quantification & Segmentation |
-|12:10-13:30| Lunch & [poster](papers/) <br>Click here to see all the posters |
+|12:10-13:30| Lunch & [poster]({{ "/papers" | relative_url }}) <br>Click here to see all the posters |
 |13:30-15:00| <a href="http://cmr.miccai.cloud/" target="_blank">CMRxMotion Challenge</a> <br> Extreme Cardiac MRI Analysis Challenge under Respiratory Motion |
 |15:00-15:30| Coffee break |
 
-|15:30-16:45 | [Regular papers II](papers/) |
+|15:30-16:45 | [Regular papers II]({{ "/papers/regulars" | relative_url }}) |
 
 | | 15:30-15:45 | Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers<br>*Zihao Wang, Yingyu Yang, Maxime Sermesant, Hervé Delingette*
 | | 15:45-16:00 | 3D Mitral Valve Surface Reconstruction from 3D TEE via Graph Neural Networks<br>*Matthias Ivantsits, Boris Pfahringer, Markus Huellebrand, Lars Walczak, Lennart Tautz, Olena Nemchyna, Serdar Akansel, Jörg Kempfert, Simon Sündermann, Anja Hennemuth*

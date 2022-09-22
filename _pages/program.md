@@ -1,9 +1,12 @@
 ---
 layout: single
 title: Program
+author: stacom
+classes:
+  - wide
 permalink: /program/
 header:
   image: /images/singapore_night.jpg
 ---
 
-{% include figure image_path="/images/coming_soon.jpg" %}
+{% include schedule %}

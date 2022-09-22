@@ -10,14 +10,27 @@ header:
 {: .text-justify}
 The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** workshop has been running annually at MICCAI since 2010. The 13th edition of STACOM workshop is going to be held in conjunction with the [MICCAI 2022](https://conferences.miccai.org/2022/en/) in Singapore. The STACOM workshop is aiming to create a collaborative forum for young/senior researchers (engineers, biophysicists, mathematicians) and clinicians, working on: statistical analysis of cardiac morphology and dynamics, computational modelling of the heart and fluid dynamics, data/models sharing, personalisation of cardiac electro-mechanical models, quantitative image analysis and translational methods into clinical practice.
 
-**[List of accepted papers are avaible now](/stacom2022/papers)**
-{: .notice--success .text-center}
+## Awards
 
-# Workshop program
+Congratulations to **Jadie Adams** from University of Utah, USA, for the best oral presenter award; and to **Dieuwertje Alblas** from University of Twente, the Netherlands, for the best poster presenter award.
 
-{% include schedule %}
+Best Oral Presenter | Best Poster Presenter
+:------------------:|:----------------------:
+![]({{ "/images/STACOM2022_BestOralAward.png" | relative_url }}) | ![]({{ "/images/STACOM2022_BestPosterAward.png" | relative_url }})
 
-# Challenges
+## Papers
+
+In total, there are **[34 papers]({{ "/papers/regulars/" | relative_url }})** accepted as regular papers, where 10 of them were presented as oral presentations. The CMRxMotion challenge accepted **[14 papers]({{ "/papers/cmrxmotion/" | relative_url }})**, where the LAScarQS challenge accepted **[16 papers]({{ "/papers/lascarqs/" | relative_url }})**.
+
+## Keynote speaker
+
+*INITIATE project - integrated computational modeling of right heart mechanics and blood flow dynamics in congenital heart disease*
+
+**Liang Zhong**<br>Associate Professor at National Heart Centre Singapore and Duke National University of Singapore
+
+![image-left]({{ "/images/zhong.png" | relative_url }}){: style="float: left; border-radius: 50%; margin-right: 10px;"} Liang Zhong is an Associate Professor at National Heart Centre Singapore and Duke National University of Singapore. He is heading Cardiovascular Engineering and Technologies Theme and co leading Cardiovascular System AI Lab. His research focuses on cardiovascular imaging, computational modeling, cardiovascular mechanics and physiology, and application of artificial intelligence in medicine. He has developed methods for quantification of heart shape, myocardial velocity and strain, and function using MRI feature tracking and 4D flow MRI. He is Principal Investigator for 1) INITIATE project to identify the most useful imaging and circulating biomarkers and exercise testing to guide management of paediatric and adult congenital heart disease [ClinicalTrials: NCT03217240]; 2) APOLLO programme. A 5000 cohort of Singaporean will be established for the study of coronary calcium score, epicardial adipose tissue, stenosis, and plaque using AI algorithm and cardiovascular outcome. His work has been supported by National Research Foundation, National Medical Research Council, Biomedical Research Council, A*STAR, and SingHealth Foundation. He has published over 180 peer-reviewed papers and filed 10 patents.
+
+## Challenges
 
 STACOM 2022 is running two exciting challenges:
 
