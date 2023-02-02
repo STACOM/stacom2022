@@ -161,6 +161,9 @@ defaults:
       type: pages
     values:
       sidebar:
+      - image: images/lncs_13593.png
+        url: https://doi.org/10.1007/978-3-031-23443-9
+        new_target: true
       - table: key_dates
       - nav: sidelinks
 
